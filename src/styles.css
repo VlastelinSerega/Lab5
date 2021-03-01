@@ -1,0 +1,18 @@
+.card {
+  display: inline-block;
+  margin: 15px;
+  width: 300px;
+}
+
+#button {
+  width: 150px;
+  height: 50px;
+  font-size: 18px;
+  margin: 15px;
+}
+#preloader {
+  margin: auto;
+  margin-top: 20%;
+  width: 160px;
+  height: 20px;
+}
